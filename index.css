@@ -211,7 +211,7 @@ background-image: url("allphotosresponsive/εικόνα_Viber_2025-12-19_14-24-3
   background-attachment: scroll;
 }
 h1,h2,h3,h4,h5{
-font-size:1.8rem !important;
+font-size: 14px !important;
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -221,6 +221,7 @@ header{
     height:150px;
 }
 }
+
 
 
 
