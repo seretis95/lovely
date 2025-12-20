@@ -220,7 +220,11 @@ font-size: 14px !important;
 header{
     height:150px;
 }
+    .keimeno{
+        width:auto;
+    }
 }
+
 
 
 
