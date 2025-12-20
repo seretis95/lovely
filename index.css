@@ -203,17 +203,18 @@ footer{
 }
 @media(min-width:300px) and (max-width:768px){
 .eikona{
-      background-image: url("allphotosresonsive/εικόνα_Viber_2025-12-18_15-49-20-610.webp");
+      background-image: url("allphotosresponsive/εικόνα_Viber_2025-12-18_15-49-20-610.webp");
      background-attachment: scroll;
 }
 .secondpara{
-background-image: url("allphotosresonsive/εικόνα_Viber_2025-12-19_14-24-37-172.webp");
+background-image: url("allphotosresponsive/εικόνα_Viber_2025-12-19_14-24-37-172.webp");
   background-attachment: scroll;
 }
 
 
     
 }
+
 
 
 
