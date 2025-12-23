@@ -233,7 +233,7 @@ header{
     .headerFirst{
     display: flex;
     flex-direction: column;
-        
+    height:auto;    
     align-items: space-evenly;
     justify-content: center;
     width: 100%;
@@ -243,6 +243,7 @@ header{
   font-style: normal;
 }
 }
+
 
 
 
