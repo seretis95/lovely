@@ -10,10 +10,11 @@ a{
 
 
 img{
+    max-width:100%;
     width: 100%;
     position: center;
     object-fit: cover;
-    height: 100%;
+   
 }
 
 .bodyTime{
@@ -217,6 +218,7 @@ font-size:1.4rem;
  }
 
 }
+
 
 
 
