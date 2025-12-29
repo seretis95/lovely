@@ -15,10 +15,7 @@ img{
     object-fit: cover;
     height: 100%;
 }
-html{
-width:100vw;
 
-}
 .bodyTime{
 display:grid;
     grid-template-rows: 1fr 70px;
@@ -220,6 +217,7 @@ font-size:1.4rem;
  }
 
 }
+
 
 
 
