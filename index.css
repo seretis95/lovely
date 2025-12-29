@@ -207,3 +207,13 @@ footer{
   align-items: center;
 
 }
+@media(max-width:650px){
+.eikona{
+  
+    background-attachment: scroll;
+  
+    
+   
+}
+
+}
