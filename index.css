@@ -234,7 +234,7 @@ header{
     display:block;
     position: sticky;
     top:0;
-    width: 100%;
+    width: 100vw;
     height:150px;
    align-items: center;
    background-color: #43280d;
@@ -394,6 +394,7 @@ footer{
   align-items: center;
 
 }
+
 
 
 
