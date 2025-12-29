@@ -216,8 +216,12 @@ footer{
  .keimenoStory h4{
 font-size:1.4rem;
  }
+    header{
+position:relative;
+    }
 
 }
+
 
 
 
