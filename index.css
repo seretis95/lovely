@@ -215,5 +215,9 @@ footer{
     
    
 }
+    html{
+max-width:100vw;
+    }
 
 }
+
