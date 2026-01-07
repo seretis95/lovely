@@ -25,7 +25,8 @@ img{
     object-fit: cover;
    
 }
-
+html{
+    width:100%;}
 
 body{
  width:100%;
@@ -208,6 +209,7 @@ footer{
 
 }
 @media(max-width:650px){
+    
 .eikona{
   
     background-attachment: none;
@@ -220,6 +222,7 @@ font-size:1.4rem;
  }
 
 }
+
 
 
 
