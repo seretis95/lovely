@@ -212,7 +212,7 @@ footer{
     
 .eikona{
   
-    background-attachment: none;
+    background-attachment: scroll;
   
     
    
@@ -222,6 +222,7 @@ font-size:1.4rem;
  }
 
 }
+
 
 
 
