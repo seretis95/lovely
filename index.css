@@ -9,7 +9,7 @@ a{
 }
 .bodyCover{
     display:grid;
-    grid-template-rows:1fr 1fr 100px;
+    grid-template-rows:auto auto 100px;
     grid-template-columns:1fr 1fr 1fr;
     grid-template-areas:
     "header header header"
@@ -220,6 +220,7 @@ font-size:1.4rem;
  }
 
 }
+
 
 
 
