@@ -7,7 +7,16 @@
 a{
     color:#ffffff;
 }
-
+.bodyCover{
+    display:grid;
+    grid-template-rows:1fr 1fr 100px;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-areas:
+    "header header header"
+    "main main main"
+    "footer footer footer";
+    width:100%;
+}
 
 img{
     max-width:100%;
@@ -17,14 +26,7 @@ img{
    
 }
 
-.bodyTime{
-display:grid;
-    grid-template-rows: 1fr 70px;
-    grid-template-columns:1fr;
-    grid-template-areas:
-        "main"
-        "footer";
-}
+
 body{
  width:100%;
 max-width: 1800px;
@@ -42,6 +44,7 @@ max-width: 1800px;
   font-style: normal;
 }
 header{
+    grid-area:header;
     display: flex;
     position: sticky;
     top:0;
@@ -221,6 +224,7 @@ position:relative;
     }
 
 }
+
 
 
 
