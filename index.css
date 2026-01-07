@@ -210,7 +210,7 @@ footer{
 @media(max-width:650px){
 .eikona{
   
-    background-attachment: scroll;
+    background-attachment: none;
   
     
    
@@ -220,6 +220,7 @@ font-size:1.4rem;
  }
 
 }
+
 
 
 
