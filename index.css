@@ -66,6 +66,7 @@ header{
     height: 600px;
     background-image: url("allphotosdesk/εικόνα_Viber_2025-12-18_15-49-20-610.jpg");
     background-position: center;
+    background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color:  #170c00;
@@ -261,6 +262,7 @@ margin-left: 5px;
 
 
 }
+
 
 
 
