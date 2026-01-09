@@ -82,9 +82,9 @@ header{
 }
 .keimeno{
  
-    text-align: center;
+   
     padding: 4px;
-    width:490px;
+    width:40%;
     font-size: 1.4rem;
      color:  #170c00;
      font-family: "Tangerine", cursive;
@@ -276,11 +276,12 @@ margin-left: 5px;
    
 }
     .keimeno{
-        font-size:0.7rem;
+        font-size:0.9rem;
 
 }
 
 }
+
 
 
 
