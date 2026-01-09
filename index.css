@@ -64,19 +64,19 @@ header{
     flex-direction: column;
     width:100%;
     height: 600px;
-    background-image: url("allphotosdesk/goormet.jpg");
+    background-image: url("allphotosdesk/res.jpg");
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color:  #170c00;
+    color:  white;
     gap: 25px;
     justify-content: center;
     
    
 }
 .middle{
-    border-top: #f2eee9 10px solid;
+    border-top:  #43280d 10px solid;
     width:80px;
     height: 0.5px;
 }
@@ -264,7 +264,7 @@ margin-left: 5px;
     flex-direction: column;
     width:100%;
     height: 300px;
-    background-image: url("allphotosdesk/goormet.jpg");
+    background-image: url("allphotosdesk/res.jpg");
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -281,6 +281,7 @@ margin-left: 5px;
 }
 
 }
+
 
 
 
