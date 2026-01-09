@@ -64,7 +64,7 @@ header{
     flex-direction: column;
     width:100%;
     height: 600px;
-    background-image: url("allphotosdesk/εικόνα_Viber_2025-12-18_15-49-20-610.jpg");
+    background-image: url("allphotosdesk/goormet.jpg");
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -264,7 +264,7 @@ margin-left: 5px;
     flex-direction: column;
     width:100%;
     height: 300px;
-    background-image: url("allphotosdesk/εικόνα_Viber_2025-12-18_15-49-20-610.jpg");
+    background-image: url("allphotosdesk/goormet.jpg");
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -281,6 +281,7 @@ margin-left: 5px;
 }
 
 }
+
 
 
 
