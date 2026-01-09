@@ -222,7 +222,8 @@ footer{
 background-attachment:scroll;
     }
  .keimenoStory h4{
-font-size:1.4rem;
+font-size:1rem;
+font-style:italic;
  }
     .photoTime{
   width: 100%;
@@ -238,6 +239,7 @@ font-size:1.4rem;
 }
 
 }
+
 
 
 
