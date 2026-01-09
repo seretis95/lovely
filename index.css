@@ -268,7 +268,7 @@ margin-left: 5px;
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     color:  #170c00;
     gap: 25px;
     justify-content: center;
@@ -277,6 +277,7 @@ margin-left: 5px;
 }
 
 }
+
 
 
 
