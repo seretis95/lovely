@@ -36,7 +36,7 @@ max-width: 1800px;
 }
 .headerFirst{
     display: grid;
-   grid-template-rows:150px;
+   grid-template-rows:auto;
    grid-template-columns:20% 50% 20%;
     grid-template-areas:
     "menu name tel";
@@ -46,6 +46,12 @@ max-width: 1800px;
   font-weight: 100;
   font-style: normal;
 }
+.menu{
+    grid-area:menu;}
+.title{
+    grid-area:name;}
+.tel{
+    grid-area:tel;}
 header{
     grid-area:header;
     display: flex;
@@ -282,6 +288,7 @@ margin-left: 5px;
 }
 
 }
+
 
 
 
