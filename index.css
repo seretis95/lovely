@@ -246,9 +246,22 @@ margin-left: 5px;
    font-size: 1.8rem;
         text-align:center;
 }
+    .secondpartKeimeno{
+    width: 30%;
+    text-align: center;
+    padding: 4px;
+    font-family: "Zalando Sans Expanded", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  color:  #6f4211; 
+ font-size:0.7rem;
+}
+    
 
 
 }
+
 
 
 
