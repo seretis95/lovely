@@ -283,6 +283,7 @@ margin-left: 5px;
    
 }
     .keimeno{
+        transform-origin:left;
         font-size:0.9rem;
         transform:scale(0);
       animation:lol 3s forwards;
@@ -309,6 +310,7 @@ transform:scale(0.3);
     }
 }
 }
+
 
 
 
