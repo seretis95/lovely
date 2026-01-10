@@ -286,8 +286,13 @@ margin-left: 5px;
         font-size:0.9rem;
 
 }
+    .tel{
+        text-align:center;
+        overflow:hidden;
+    }
 
 }
+
 
 
 
