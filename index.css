@@ -62,7 +62,7 @@ header{
    align-items: center;
    background-color: #43280d;
    color: #f2eee9;
- 
+ z-index:1000;
 
 }
 
@@ -309,6 +309,7 @@ transform:scale(0.3);
     }
 }
 }
+
 
 
 
