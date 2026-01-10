@@ -284,14 +284,32 @@ margin-left: 5px;
 }
     .keimeno{
         font-size:0.9rem;
-
+        transform:scale(0)
+      animation:lol 5s;
 }
     .tel{
         text-align:center;
         overflow:hidden;
     }
-
+@keyframes lol{
+from{
+    transform:scale(0);
 }
+    20%{
+transform:scale(0.3);
+    }
+    50%{
+        transform:scale(0.6);
+    }
+    70%{
+        transform:scale(0.8);
+    }
+    to{
+        transform:scale(1.0);
+    }
+}
+}
+
 
 
 
