@@ -285,7 +285,7 @@ margin-left: 5px;
     .keimeno{
         font-size:0.9rem;
         transform:scale(0);
-      animation:lol 5s forwards;
+      animation:lol 3s forwards;
 }
     .tel{
         text-align:center;
@@ -309,6 +309,7 @@ transform:scale(0.3);
     }
 }
 }
+
 
 
 
