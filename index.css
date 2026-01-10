@@ -309,7 +309,21 @@ transform:scale(0.3);
         transform:scale(1.0);
     }
 }
+    @keyframes lal{
+        from{
+         background-image:url("allphotosdesk/res.jpg");
+        }
+      50%{
+  background-image:url("allphotosdesk/res.jpg");
+      }
+        to{
+              background-image:url("allphotosdesk/res.jpg");
+        }
+        
+    }
+    
 }
+
 
 
 
